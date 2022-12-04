@@ -16,7 +16,7 @@ public class ArithmeticCalc {
 	   	   System.out.println("Enter the rate amount");
 		   r=scan.nextDouble();
 	   si=(p*t*r)/100;
-		   System.out.println("Simple interest-"+si);
+		   System.out.println("Simple interest rate-"+si);
 		 
 		 
 		 	  
